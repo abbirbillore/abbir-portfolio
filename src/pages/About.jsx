@@ -17,10 +17,13 @@ function About() {
         <div className="about-intro">
 
           <p>
-            I am Abbir Billore, a Computer Science and Business Systems
-            student pursuing CSBS from RGPV. I am passionate about
-            Data Analytics, Python Development, Artificial Intelligence
-            and Machine Learning.
+            “I believe that every problem becomes an opportunity when we look at it with the right data and the right mindset.” 
+            Hello everyone, My self Abbir Billore. I am currently pursuing my M.Tech in Data Science, and I have completed my B.Tech in Computer Science and Business Systems from RGPV, Bhopal.
+            I have a strong interest in Data Analytics, Data Science, and Artificial Intelligence, and I enjoy working with data to discover meaningful insights and solve real-world problems. 
+            I have hands-on experience with technologies such as Python, SQL, Power BI, MySQL, Machine Learning, and Streamlit.
+            During my academic journey, I have worked on several projects, including an E-commerce Analytics Dashboard using Power BI and MySQL, a UPI Fraud Detection system, 
+            and AI-based applications involving document analysis, image generation, and object detection. These projects have helped me develop both my technical skills and my ability to approach problems analytically. 
+            Apart from technical skills, I consider myself a quick learner, problem solver, and someone who is always willing to learn new technologies. My goal is to build a career in Data Science and Analytics, where I can use data and technology to create practical solutions and continuously grow as a professional.
           </p>
 
           <p>
